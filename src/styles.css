@@ -1,0 +1,9 @@
+nav a {
+  margin: 1rem;
+}
+
+.divk {
+  display: grid;
+  grid-template-columns: repeat(7, 500px);
+  grid-template-rows: repeat(8, auto);
+}
